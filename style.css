@@ -131,9 +131,9 @@ h6 {
     rgba(255, 255, 255, 0) 100%
   );
   width: 647px;
-  height: 383px;
   margin-top: 97px;
   margin-left: 142px;
+  margin-bottom: 130px;
 }
 
 h1 {
@@ -247,6 +247,7 @@ p {
   }
   .textbox {
     margin-left: 0;
+    margin-bottom: 0;
   }
 }
 @media (max-width: 768px) {
